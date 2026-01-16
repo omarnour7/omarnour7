@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on Automating 40-60% of companies tasks to improve productivity and efficiency<br>
-🌱 I’m currently learning Fintech to help companies growth in both financials and in the tech section
+🌱 I’m currently learning Fintech to help companies growth in both financials and in the tech section<br>
 📫 How to reach me: omarnour@ieee.org 
