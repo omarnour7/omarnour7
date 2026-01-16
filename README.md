@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on Automating 40-60% of companies tasks to improve productivity and efficiency
+🔭 I’m currently working on Automating 40-60% of companies tasks to improve productivity and efficiency<br>
 🌱 I’m currently learning Fintech to help companies growth in both financials and in the tech section
 📫 How to reach me: omarnour@ieee.org 
